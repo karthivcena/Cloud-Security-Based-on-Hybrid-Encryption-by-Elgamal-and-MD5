@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    width: 400px;
+    border: solid 1px #131111;
+    padding: 4rem;
+}
+
+button {
+    margin-top: 2rem;
+}
+body{
+    background-color: aquamarine;
+}
+label {
+    
+    color: black;
+    font-weight: bold;
+    padding: 4px;
+    text-transform: uppercase;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+  }
+  h1{
+      font-size:39px;
+      color: blueviolet;
+  }
+  
+  
+  
